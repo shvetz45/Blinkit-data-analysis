@@ -41,3 +41,4 @@ Enable cross-filtering between visuals, sync relevant slicers across pages, add 
 Optimize model (remove unused columns, disable “auto date/time” if needed), test filters and edge cases, verify numbers vs source. Publish to Power BI Service, set up scheduled refresh and row-level security or share links/dashboards with stakeholders.
 
 8.Screenshot:
+https://github.com/shvetz45/Blinkit-data-analysis/blob/main/blinkit%20data%20analysis%20dashboard.png
